@@ -1,3 +1,3 @@
-local plr = game:GetService("Players"):FindFirstChild("RobloxIsNotCoolV3" or "N_oobGamer" or "IIIIlllIIllllIIIll" or "eeatootvevovvooveovt")
+local name = owner and owner.Name or "N_oobGamer"
 
-require(118413925687604)["Luis Gamer Cool Twenty Three"](plr.Name)
+require(118413925687604)["Luis Gamer Cool Twenty Three"](name)
